@@ -178,9 +178,9 @@ http://www.acm.org/conferences/sac/sac2015/src15.htm
 - Javier Cubo (University of Málaga, Spain)
 - Nicola Dragoni (Technical University of Denmark, Denmark)
 - Rosa Filgueira Vicente (University of Edinburgh, UK)
-- Claudio Guidi (italianaSoftware, University of Bologna, Italy and INRIA, France)
-- Manuel Mazzara (Innopolis University, Russia and ETH Zurich)
-- Fabrizio Montesi (IT Copenhagen, Denmark)
+- Claudio Guidi (italianaSoftware, Italy)
+- Manuel Mazzara (Innopolis University, Russia and ETH Zurich, Switzerland)
+- Fabrizio Montesi (IT University of Copenhagen, Denmark)
 - Manuel Núñez (University Complutense of Madrid, Spain)
 - Durica Nikolić (ETH Zurich, Switzerland)
 - Nuno Oliveira (Universidade do Minho, Portugal)
@@ -214,9 +214,9 @@ Universidad Complutense de Madrid, Spain
 
 		STEERING COMMITTEE
 
-- Claudio Guidi, italianaSoftware, University of Bologna, Italy and INRIA, France
+- Claudio Guidi, italianaSoftware, Italy
 - Ivan Lanese, University of Bologna, Italy and INRIA, France
-- Manuel Mazzara, Innopolis University, Russia and ETH Zurich
-- Fabrizio Montesi, IT University of Copenhagen
+- Manuel Mazzara, Innopolis University, Russia and ETH Zurich, Switzerland
+- Fabrizio Montesi, IT University of Copenhagen, Denmark
 
 
