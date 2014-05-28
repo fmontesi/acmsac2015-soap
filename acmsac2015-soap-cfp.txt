@@ -172,7 +172,7 @@ http://www.acm.org/conferences/sac/sac2015/src15.htm
 
 - Laura Bocchi (Imperial College London, UK)
 - Rubén Casado Tejedor (Treelogic, Spain)
-- Ana Cavalli (TELECOM & Management SudParis, France)
+- Ana Cavalli (Institut Mines-Telecom/Telecom SudParis, France)
 - Mauro Caporuscio (Linnaeus University, Sweden)
 - Michele Ciavotta (Politecnico di Milano, Italy)
 - Javier Cubo (University of Málaga, Spain)
@@ -194,7 +194,7 @@ http://www.acm.org/conferences/sac/sac2015/src15.htm
 - Fatiha Zaïdi (Université Paris-Sud XI, France)
 - Hernán Melgratti (University of Buenos Aires, Argentina)
 - Silvio Ghilardi (Università degli studi di Milano, Italy)
-
+- Søren Debois (ITU Copenhagen, Denmark)
 
         TRACK CHAIRS
 
