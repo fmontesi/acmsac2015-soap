@@ -171,9 +171,9 @@ http://www.acm.org/conferences/sac/sac2015/src15.htm
         PC MEMBERS 
 
 - Laura Bocchi (Imperial College London, UK)
+- Mauro Caporuscio (Linnaeus University, Sweden)
 - Rubén Casado Tejedor (Treelogic, Spain)
 - Ana Cavalli (Institut Mines-Telecom/Telecom SudParis, France)
-- Mauro Caporuscio (Linnaeus University, Sweden)
 - Michele Ciavotta (Politecnico di Milano, Italy)
 - Javier Cubo (University of Málaga, Spain)
 - Søren Debois (ITU Copenhagen, Denmark)
