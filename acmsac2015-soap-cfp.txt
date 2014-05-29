@@ -176,10 +176,13 @@ http://www.acm.org/conferences/sac/sac2015/src15.htm
 - Mauro Caporuscio (Linnaeus University, Sweden)
 - Michele Ciavotta (Politecnico di Milano, Italy)
 - Javier Cubo (University of Málaga, Spain)
+- Søren Debois (ITU Copenhagen, Denmark)
 - Nicola Dragoni (Technical University of Denmark, Denmark)
 - Rosa Filgueira Vicente (University of Edinburgh, UK)
+- Silvio Ghilardi (Università degli studi di Milano, Italy)
 - Claudio Guidi (italianaSoftware, Italy)
 - Manuel Mazzara (Innopolis University, Russia and ETH Zurich, Switzerland)
+- Hernán Melgratti (University of Buenos Aires, Argentina)
 - Fabrizio Montesi (IT University of Copenhagen, Denmark)
 - Manuel Núñez (University Complutense of Madrid, Spain)
 - Durica Nikolić (ETH Zurich, Switzerland)
@@ -192,19 +195,16 @@ http://www.acm.org/conferences/sac/sac2015/src15.htm
 - Franz Wotawa (Graz University of Technology, Austria)
 - Ilsun You (Korean Bible University, Korea)
 - Fatiha Zaïdi (Université Paris-Sud XI, France)
-- Hernán Melgratti (University of Buenos Aires, Argentina)
-- Silvio Ghilardi (Università degli studi di Milano, Italy)
-- Søren Debois (ITU Copenhagen, Denmark)
 
         TRACK CHAIRS
-
-Alberto Lluch Lafuente
-alberto.lluch@imtulucca.it
-IMT Institute for Advanced Studies Lucca, Italy
 
 Marcello Maria Bersani 
 marcellomaria.bersani@polimi.it
 Polytechnic of Milan, Italy
+
+Alberto Lluch Lafuente
+alberto.lluch@imtulucca.it
+IMT Institute for Advanced Studies Lucca, Italy
 
 Alberto Nunez 
 alberto.nunez@pdi.ucm.es
