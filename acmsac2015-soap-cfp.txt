@@ -144,8 +144,16 @@ will result in excluding them from the ACM/IEEE digital library.
 
         SPECIAL ISSUE
 
-Authors of best papers will be invited to submit an extended and revised 
-version of their work to a special issue of an indexed journal.
+We plan to organize one or two special issues depending on the quality of
+the submissions. Best papers will be invited to a special issue of Elsevier’s
+Science of Computer Programming 
+
+http://www.journals.elsevier.com/science-of-computer-programming/
+
+Best papers by young researchers will be invited to a special issue of the 
+Journal of Internet Services and Information Security
+
+http://www.jisis.org/
 
 
         STUDENT RESEARCH COMPETITION PROGRAM 
